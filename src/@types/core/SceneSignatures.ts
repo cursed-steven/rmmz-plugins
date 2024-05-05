@@ -1,0 +1,21 @@
+class Scene_Base implements Scene_Base { }
+class Scene_Boot implements Scene_Boot {}
+class Scene_Message implements Scene_Message {}
+class Scene_Map implements Scene_Map {}
+class Scene_MenuBase implements Scene_MenuBase {}
+class Scene_Name implements Scene_Name {}
+class Scene_Menu implements Scene_Menu {}
+class Scene_File implements Scene_File {}
+class Scene_Save implements Scene_Save {}
+class Scene_Load implements Scene_Load {}
+class Scene_Remove implements Scene_Remove {}
+class Scene_ItemBase implements Scene_ItemBase {}
+class Scene_Item implements Scene_Item {}
+class Scene_Skill implements Scene_Skill {}
+class Scene_Shop implements Scene_Shop {}
+class Scene_Battle implements Scene_Battle {}
+class Scene_Options implements Scene_Options {}
+class Scene_Help implements Scene_Help {}
+class Scene_Title implements Scene_Title {}
+class Scene_Gameover implements Scene_Gameover {}
+class Scene_GameEnd implements Scene_GameEnd {}

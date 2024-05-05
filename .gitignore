@@ -1,3 +1,14 @@
-# pjTmpl
+# node_modules
 
-pjTmpl/*
+node_modules/*
+
+# project
+
+project/*
+
+# for build, electron
+
+*.sh
+*.js
+*.yaml
+tsconfig.json
