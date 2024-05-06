@@ -6,9 +6,15 @@ node_modules/*
 
 project/*
 
-# for build, electron
+# for build
 
 *.sh
 *.js
 *.yaml
 tsconfig.json
+
+# for electron
+
+src/main/*
+src/plugins/dummy.html
+src/plugins/*.js
