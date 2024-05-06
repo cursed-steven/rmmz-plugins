@@ -8,8 +8,8 @@ project/*
 
 # for build
 
-*.sh
-*.js
+copyjs.sh
+esbuild*.js
 *.yaml
 tsconfig.json
 
