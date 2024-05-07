@@ -20,6 +20,7 @@
  * @param bareHandsElementId
  * @text 素手の攻撃属性(ID)
  * @type number
+ * @default 1
  */
 
 (() => {
