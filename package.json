@@ -1,6 +1,6 @@
 {
-    "name": "donut-machine-mz",
-    "version": "2.0.0-alpha",
+    "name": "cursed-plugins",
+    "version": "1.0.0",
     "description": "",
     "private": true,
     "main": "project/js/main/main.js",
