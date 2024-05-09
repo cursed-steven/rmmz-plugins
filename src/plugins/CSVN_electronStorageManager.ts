@@ -4,6 +4,7 @@
  * @author cursed_steven
  * @base PluginCommonBase
  * @orderAfter PluginCommonBase
+ * @url https://note.com/cursed_steven/n/ndfb3fc4858c6
  * @preserve
  *
  * @help

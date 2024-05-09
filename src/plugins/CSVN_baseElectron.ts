@@ -4,7 +4,7 @@
  * @author cursed_steven
  * @base PluginCommonBase
  * @orderAfter PluginCommonBase
- * @url https://note.com/cursed_steven/n/n56c4cd52558e
+ * @url https://note.com/cursed_steven/n/ndfb3fc4858c6
  * @preserve
  *
  * @help
@@ -27,7 +27,7 @@
  * ※ブラウザ向けのビルドは現状考慮していません。
  *
  * 詳細についてはこちらをご確認ください。
- * (url)
+ * https://note.com/cursed_steven/n/ndfb3fc4858c6
  *
  * ◆ショートカット
  * [Win]

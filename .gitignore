@@ -15,6 +15,5 @@ tsconfig.json
 
 # for electron
 
-src/main/*
 src/plugins/dummy.html
 src/plugins/*.js
