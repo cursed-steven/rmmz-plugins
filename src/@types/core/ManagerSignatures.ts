@@ -288,6 +288,20 @@ class StorageIOManager {
     static forageTestKey: () => string;
     /** ローカルストレージのキーの更新 */
     static updateForageKeys: () => any;
+    /** ファイル削除 */
+    static remove: (savename: string) => void;
+    /** ローカルファイルシステム上のデータディレクトリパス */
+    static dataDir: () => Promise<string>;
+    /** ローカルファイルシステム上のデータファイルパス */
+    static dataFilePath: (src: string) => Promise<string>;
+    /** $dataXXXの保存 */
+    static saveData: (data: any, src: string) => void;
+    /** ZIP圧縮せずにローカルファイルに保存 */
+    static saveToLocalFileNoZip: (data: any, src: string) => Promise<any>;
+    /** ZIP圧縮せずにローカルストレージに保存 */
+    static saveToForageNoZip: (data: any, src: string) => void;
+    /** データファイル用ストレージキー */
+    static forageKeyForData: (src: string) => string;
 }
 
 /** カラーマネージャ */
