@@ -211,13 +211,6 @@
  * @on 更新する
  * @off 更新しない
  *
- * @param partySize
- * @text パーティーの人数
- * @type boolean
- * @default true
- * @on 更新する
- * @off 更新しない
- *
  * @param gold
  * @text 所持金
  * @type boolean
